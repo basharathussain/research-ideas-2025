@@ -7,7 +7,7 @@ Meeting AI is an interdisciplinary research area that integrates speech processi
 
 ## 🧠 Dimension 1: Core Meeting Understanding and Intelligence
 
-### 🔄 Multimodal Data Fusion
+### 🔄 Multimodal Data Fusion (with RAG?) - allocated to Amir Saleem
 
 **Research Problem:** How can audio, video, and text streams be effectively fused to create a richer understanding of meeting content?
 
